@@ -1,0 +1,33 @@
+{
+  "pgscCode": "1300000000",
+  "correspondenceCode": "130000000",
+  "name": "National Capital Region (NCR)",
+  "districts": [
+    {
+      "correspondenceCode": "133900000",
+      "name": "First District",
+      "cities": [
+        {
+          "pgscCode": "1380600000",
+          "correspondenceCode": "133900000",
+          "name": "City of Manila",
+          "class": "HUC",
+          "incomeClassification": "Special",
+          "isCity": true,
+          "isCapital": false,
+          "isSubMunicipality": false
+        },
+        {
+          "pgscCode": "1380601000",
+          "correspondenceCode": "133901000",
+          "name": "Tondo I/II",
+          "class": "HUC",
+          "incomeClassification": "Special",
+          "isCity": false,
+          "isCapital": false,
+          "isSubMunicipality": true
+        }
+      ]
+    }
+  ]
+}

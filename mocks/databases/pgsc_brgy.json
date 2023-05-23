@@ -1,0 +1,16 @@
+{
+  "pgscCode": "0102801001",
+  "correspondenceCode": "012801001",
+  "regionCode": "0100000000",
+  "provinceCode": "0102800000",
+  "cityCode": "0102801000",
+  "name": "Adams",
+  "isUrban": false,
+  "isPoblacion": true,
+  "metaDeta": {
+    "population": [
+      { "year": "2015", "value": 1792 },
+      { "year": "2020", "value": 2189 }
+    ]
+  }
+}

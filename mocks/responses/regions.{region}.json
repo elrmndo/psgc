@@ -1,0 +1,9 @@
+{
+  "regionCode": "01",
+  "pgscCode": "0100000000",
+  "correspondenceCode": "010000000",
+  "name": "Region I (Ilocos Region)",
+  "hasProvinces": true,
+  "hasDistricts": false,
+  "hasSpecialGeographicAreas": false
+}

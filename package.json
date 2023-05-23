@@ -1,0 +1,28 @@
+{
+  "name": "@psgc/parser",
+  "version": "1.0.0",
+  "description": "Philippine Standard Geographic Code (PSGC) publication parser",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com",
+    "directory": "packages/parser"
+  },
+  "scripts": {
+    "dev": "tsnd --respawn index.ts"
+  },
+  "keywords": [
+    "psgc",
+    "parser"
+  ],
+  "author": "Enrique Rimando <hello@elrmndo.dev>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.16.0"
+  },
+  "devDependencies": {
+    "ts-node-dev": "^2.0.0"
+  },
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}

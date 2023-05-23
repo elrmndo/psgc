@@ -1,0 +1,29 @@
+{
+  "pgscCode": "1900000000",
+  "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+  "provinces": [
+    {
+      "psgCode": "1900700000",
+      "correspondenceCode": "150700000",
+      "name": "Basilan",
+      "cities": [
+        {
+          "pgscCode": "1900702000",
+          "correspondenceCode": "150702000",
+          "name": "City of Lamitan",
+          "class": "CC",
+          "incomeClassification": "6th",
+          "isCity": true,
+          "isCapital": true,
+          "isSubMunicipality": false
+        }
+      ]
+    }
+  ],
+  "specialGeographicAreas": [
+    {
+      "pgscCode": "1999901000",
+      "name": "Carmen Cluster"
+    }
+  ]
+}

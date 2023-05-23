@@ -1,0 +1,16 @@
+[
+  {
+    "regionCode": "01",
+    "provinceCode": "028",
+    "pgscCode": "0102800000",
+    "correspondenceCode": "012800000",
+    "name": "Ilocos Norte"
+  },
+  {
+    "regionCode": "19",
+    "provinceCode": "007",
+    "psgCode": "1900700000",
+    "correspondenceCode": "150700000",
+    "name": "Basilan"
+  }
+]

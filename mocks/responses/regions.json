@@ -1,0 +1,38 @@
+[
+  {
+    "regionCode": "01",
+    "pgscCode": "0100000000",
+    "correspondenceCode": "010000000",
+    "name": "Region I (Ilocos Region)",
+    "hasProvinces": true,
+    "hasDistricts": false,
+    "hasSpecialGeographicAreas": false
+  },
+  {
+    "regionCode": "02",
+    "pgscCode": "0200000000",
+    "correspondenceCode": "020000000",
+    "name": "Region II (Cagayan Valley)",
+    "hasProvinces": true,
+    "hasDistricts": false,
+    "hasSpecialGeographicAreas": false
+  },
+  {
+    "regionCode": "13",
+    "pgscCode": "1300000000",
+    "correspondenceCode": "130000000",
+    "name": "National Capital Region (NCR)",
+    "hasProvinces": false,
+    "hasDistricts": true,
+    "hasSpecialGeographicAreas": false
+  },
+  {
+    "regionCode": "19",
+    "pgscCode": "1900000000",
+    "correspondenceCode": null,
+    "name": "Bangsamoro Autonomous Region In Muslim Mindanao (BARMM)",
+    "hasProvinces": true,
+    "hasDistricts": false,
+    "hasSpecialGeographicAreas": true
+  }
+]

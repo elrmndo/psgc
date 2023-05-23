@@ -1,0 +1,35 @@
+{
+  "pgscCode": "0100000000",
+  "correspondenceCode": "010000000",
+  "name": "Region I (Ilocos Region)",
+  "provinces": [
+    {
+      "pgscCode": "0102800000",
+      "correspondenceCode": "012800000",
+      "name": "Ilocos Norte",
+      "oldName": "undefined",
+      "incomeClassification": "1st",
+      "cities": [
+        {
+          "pgscCode": "0102801000",
+          "correspondenceCode": "012801000",
+          "name": "Adams",
+          "incomeClassification": "5th",
+          "isCity": false,
+          "isCapital": false,
+          "isSubMunicipality": false
+        },
+        {
+          "pgscCode": "0102806000",
+          "correspondenceCode": "012806000",
+          "name": "Burgos",
+          "class": "CC",
+          "incomeClassification": "5th",
+          "isCity": true,
+          "isCapital": false,
+          "isSubMunicipality": false
+        }
+      ]
+    }
+  ]
+}
